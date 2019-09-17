@@ -34,8 +34,9 @@ html {
     bottom: 0px;
     display: inline-block;
     margin: auto;
-       width: auto;
-       height: auto;
+    width: auto;
+    height: auto;
+    border-radius: 25px;
    }
     .button {
     width: 40%;
